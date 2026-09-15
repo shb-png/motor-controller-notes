@@ -1,8 +1,8 @@
 ![mc-multi-board-assembly](mc-multi-board-assembly.png)
 
 above pictured the three boards that make up the motor controller
-(left/purple is [power supply](power%20supply.md))
-(large squarish platform in the center is the [power stage](power%20stage.md))
+(left/purple is [power-supply](power-supply.md))
+(large squarish platform in the center is the [power-stage](power-stage.md))
 (bottom black pcb/rectangle is [logic](logic.md))
 
 
@@ -15,6 +15,6 @@ arrows of signals aren't really faithful to origin/destination of signal, but th
 
 
 **board list:**
-[power supply](power%20supply.md)
+[power-supply](power-supply.md)
 [logic](logic.md)
-[power stage](power%20stage.md)
+[power-stage](power-stage.md)
