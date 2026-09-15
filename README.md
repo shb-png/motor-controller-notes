@@ -3,9 +3,9 @@ relatively informal notes, schematics, code snippets and other resources for EVC
 
 very much a work in progress, so many links will lead to unfinished pages
 # table of contents
-[[types of motors]]
-[[motor control schemes]]
-[[motor controller '26 schematics]]
+[types of motors](types%20of%20motors.md)
+[motor control schemes](motor%20control%20schemes.md)
+[motor controller '26 schematics](motor%20controller%20'26%20schematics.md)
 
 
 note: i recommend going through these chronologically as later sections typically rely on previous sections, although it can be equally helpful to skip around sections by following the links to notes for vocab words/concepts that are unfamiliar

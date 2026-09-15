@@ -1,7 +1,7 @@
-![[power-stage-3D.png]]
+![power-stage-3D](power-stage-3D.png)
 
 **top level schematic:**
-![[power-stage-top-level-schematic.png]]
+![power-stage-top-level-schematic](power-stage-top-level-schematic.png)
 
 **signal definitions**
 PHASE 1-3
@@ -12,7 +12,7 @@ IP +/- 1-3
 
 P 1-3 H/L
 - PWM (H) and its complement/inverse signal (L) for each of the phases
-- each pair connected to their respective [[half-bridge]]
+- each pair connected to their respective [half-bridge](half-bridge.md)
 
 MOS 1-3 TMP
 - thermistor temp sensors for each of the phases
