@@ -23,7 +23,7 @@ the datasheet for the LT8316 can be found [here](https://www.analog.com/media/en
 
 
 ## sheet name: Precharge_Controller
-![](../../Pasted%20image%2020260917184933.png)
+![](psu-precharge.png)
 
 contains two main pieces:
 - precharge controller (TPSI31P1-Q1)
