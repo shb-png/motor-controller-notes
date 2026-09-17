@@ -6,16 +6,17 @@ above pictured the three boards that make up the motor controller
 (bottom black pcb/rectangle is [logic](logic.md))
 
 
-**internal architecture/flow diagram (WIP):**
+## internal architecture/flow diagram (WIP):
+
 ![336](mc-internal-architecture-2.png)
 
 arrows of signals aren't really faithful to origin/destination of signal, but the general idea of what the connections between the boards mean should be accurate
 
-**legacy diagram:**
+## legacy diagram:
 ![446](mc-internal-architecture-1.png)
 
 
-**board list:**
+## board list:
 
 [power-supply](power-supply.md)
 

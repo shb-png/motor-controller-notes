@@ -1,3 +1,6 @@
+
+## power stage 
+
 ![power-stage-3D](power-stage-3D.png)
 
 **top level schematic:**
