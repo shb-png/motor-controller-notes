@@ -4,9 +4,8 @@ relatively informal notes, schematics, code snippets and other resources for EVC
 very much a work in progress, so many links will lead to unfinished pages
 # table of contents
 [types of motors](learning-materials/types-of-motors.md)
+
 [motor control schemes](learning-materials/motor-control-schemes.md)
-
-
 
 [motor controller '26 schematics](mc-26-resources/mc-26-schematics.md)
 
@@ -15,6 +14,7 @@ note: i recommend going through these chronologically as later sections typicall
 here are some videos/texts that i personally found useful. these are referenced throughout the note vault, but are also consolidated here for easy access
 
 **videos:**
+
 [Field Oriented Control of Permanent Magnet Motors](https://www.youtube.com/watch?v=cdiZUszYLiA)
 - really good for understanding how *controlling* the motor works with a bunch of animations/simulations
 - definitely recommend watching first ~25 minutes regardless if you are interested in writing control firmware/software or not
@@ -28,11 +28,13 @@ here are some videos/texts that i personally found useful. these are referenced 
 
 **pdfs/textbooks:**
 [Motor Control Compendium](https://www.ti.com/download/trng/docs/c2000/TI_MotorControlCompendium_2010.pdf)
-- want to know what things mean but don't know where to start because none of the words seem english? you're in luck because this is basically every word you will ever hear that is associated with motors
+
+-  want to know what things mean but don't know where to start because none of the words seem english? you're in luck because this is basically every word you will ever hear that is associated with motors
 - dave wilson from TI is my goat
 
 **articles in general:**
 [Introduction to Brushless DC Motor Control](https://www.mathworks.com/campaigns/offers/next/introduction-to-brushless-dc-motor-control.html)
+
 - really good gifs for visualization
 - pretty quick read
 	- six "chapters" which are relatively short pages
