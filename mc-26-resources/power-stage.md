@@ -12,7 +12,7 @@ IP +/- 1-3
 
 P 1-3 H/L
 - PWM (H) and its complement/inverse signal (L) for each of the phases
-- each pair connected to their respective [half-bridge](half-bridge.md)
+- each pair connected to their respective [half-bridge](../learning-materials/half-bridge.md)
 
 MOS 1-3 TMP
 - thermistor temp sensors for each of the phases
